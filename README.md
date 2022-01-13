@@ -4,4 +4,4 @@
 
 ## Проекты
 
-*[Проект № 0. Игра "Угадай число"](https://github.com/alexlapshov89/ALapshov_coding)
+*[Проект № 0. Игра "Угадай число"](https://github.com/alexlapshov89/ALapshov_coding/tree/main/project_0)
