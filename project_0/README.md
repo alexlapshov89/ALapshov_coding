@@ -2,7 +2,7 @@
 
 ## Оглавление
 1. [Описание проекта](https://github.com/alexlapshov89/ALapshov_coding/blob/main/project_0/README.md#1-описание-проекта)
-2. [Какой кейс решаем?](https://github.com/alexlapshov89/ALapshov_coding/blob/main/project_0/README.md#2-какой-кейс-решаем?)
+2. [Какой кейс решаем?](https://github.com/alexlapshov89/ALapshov_coding/blob/main/project_0/README.md#2-какой-кейс-решаем)
 3. [Краткая информация о данных](https://github.com/alexlapshov89/ALapshov_coding/blob/main/project_0/README.md#3-краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/alexlapshov89/ALapshov_coding/blob/main/project_0/README.md#4-этапы-работы-над-проектом)
 5. [Результаты](https://github.com/alexlapshov89/ALapshov_coding/blob/main/project_0/README.md#5-результаты)
