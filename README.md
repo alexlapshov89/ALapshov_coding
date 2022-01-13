@@ -1,7 +1,7 @@
-# My projects
+# Обучение по специальности Data Science
 
-From the [SkillFactory Data Science Course]
+Ниже представлены материалы, разработанные в ходе обучения по программе [SkillFactory Data Science Course](https://skillfactory.ru/data-scientist)
 
-## Projects
+## Проекты
 
-*[Project 0. Game "Guess number"]
+*[Проект № 0. Игра "Угадай число"](https://github.com/alexlapshov89/ALapshov_coding)

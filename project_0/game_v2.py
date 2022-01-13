@@ -1,5 +1,6 @@
 import numpy as np
 def random_predict(number:int=1)->int:
+# Алгоритм случайного угадывания числа 
     count = 0
     while True:
         count += 1
@@ -8,4 +9,6 @@ def random_predict(number:int=1)->int:
             break
     return count
 
-print(f'Quantity attemts: {random_predict()}')
+#RUN
+num = np.random.randint(1,101)
+print(f'Число попыток: {random_predict(num)}')
