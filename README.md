@@ -5,3 +5,4 @@
 ## Проекты
 
 *[Проект № 0. Игра "Угадай число"](https://github.com/alexlapshov89/ALapshov_coding/tree/main/project_0)
+*[Проект № 1. Анализ вакансий на hh.ru](https://github.com/alexlapshov89/ALapshov_coding/tree/main/project_1)
