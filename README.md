@@ -2,7 +2,7 @@
 
 [Игра "Угадай число"](https://github.com/alexlapshov89/ALapshov_coding/tree/main/project_0)
 
-[Анализ вакансий на hh.ru](https://github.com/alexlapshov89/ALapshov_coding/tree/main/project_1)
+[Анализ вакансий на hh.ru](https://github.com/alexlapshov89/ALapshov_coding/tree/for_views/project_1)
 
 [Задача регрессии. Прогнозирование рейтинга отеля по отзыву клиента](https://github.com/alexlapshov89/ALapshov_coding/blob/main/EDA_Project.ipynb)
 
